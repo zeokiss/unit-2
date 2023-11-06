@@ -1,1 +1,6 @@
+<<<<<<< HEAD
     ghhtjtfccc
+=======
+ccc
+rhrhuhr
+>>>>>>> valaki2
